@@ -34,7 +34,7 @@ The website provides:
 ## 🚀 Live Website
 🔗 Visit the Site[](https://aridcode.github.io/ARIDCODE-INITIATIVE/)
 
----
+---https://aridcode.github.io/ARIDCODE-INITIATIVE/
 
 ## 📜 License
 © 2025 ARIDCODE INITIATIVE.  
