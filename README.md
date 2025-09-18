@@ -43,7 +43,7 @@ This project’s code is **public for viewing** but not licensed for reuse witho
 ---
 
 ## 📬 Contact
-- **Email:** aridcodeinitiative@gmail.com.com
+- **Email:** aridcodeinitiative@gmail.com
 Phone:+25494226164
 Location: Turkana west sub,county, Kenya
 
