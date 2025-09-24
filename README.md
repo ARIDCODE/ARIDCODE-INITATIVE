@@ -32,7 +32,7 @@ The website provides:
 ---
 
 ## 🚀 Live Website
-🔗 Visit the Site[](https://aridcode.github.io/ARIDCODE-INITATIVE/)
+🔗 Visit the Site[](https://aridcode.github.io/ARIDCODE-INITIATIVE/)
 
 https://aridcode.github.io/ARIDCODE-INITATIVE/
 
